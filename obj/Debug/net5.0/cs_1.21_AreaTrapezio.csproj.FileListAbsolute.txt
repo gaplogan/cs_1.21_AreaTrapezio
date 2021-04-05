@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.21_AreaTrapezio\bin\Debug\net5.0\cs_1.21_AreaTrapezio.exe
+E:\GitHub\cs_1.21_AreaTrapezio\bin\Debug\net5.0\cs_1.21_AreaTrapezio.deps.json
+E:\GitHub\cs_1.21_AreaTrapezio\bin\Debug\net5.0\cs_1.21_AreaTrapezio.runtimeconfig.json
+E:\GitHub\cs_1.21_AreaTrapezio\bin\Debug\net5.0\cs_1.21_AreaTrapezio.runtimeconfig.dev.json
+E:\GitHub\cs_1.21_AreaTrapezio\bin\Debug\net5.0\cs_1.21_AreaTrapezio.dll
+E:\GitHub\cs_1.21_AreaTrapezio\bin\Debug\net5.0\ref\cs_1.21_AreaTrapezio.dll
+E:\GitHub\cs_1.21_AreaTrapezio\bin\Debug\net5.0\cs_1.21_AreaTrapezio.pdb
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.csprojAssemblyReference.cache
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.AssemblyInfo.cs
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.dll
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\ref\cs_1.21_AreaTrapezio.dll
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.pdb
+E:\GitHub\cs_1.21_AreaTrapezio\obj\Debug\net5.0\cs_1.21_AreaTrapezio.genruntimeconfig.cache
